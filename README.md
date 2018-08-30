@@ -1,4 +1,4 @@
-# RAW TO MP3 Converter
+# MP3 TO RAW CONVERTER
 How to use:
 - Change directory var with your directory
 - Give 777 permissions
