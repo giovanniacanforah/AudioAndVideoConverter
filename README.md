@@ -4,5 +4,5 @@ How to use:
 - Give 777 permissions
 - Start the script with php converter.php
  Dependencies:
- ffmpeg
- php
+ - ffmpeg
+ - php
