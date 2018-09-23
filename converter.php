@@ -1,6 +1,6 @@
 <?php
 $directory = '';
-$dest = '':
+$dest = '';
 $canzoni = glob($directory.'*mp3');
 foreach($canzoni as $song){
     $song = str_replace($directory, '', $song);
