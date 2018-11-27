@@ -1,4 +1,4 @@
-# MP3 TO RAW CONVERTER
+# AudioAndVideoConverter
 How to use:
 - Change directory var with your directory
 - Give 777 permissions
