@@ -3,7 +3,7 @@ $directory = '';
 $dest = '';
 $from = readline("Da quale estensione devo convertire?"); 
 $to = readline("In quale estensione devo convertire?"); 
-$canzoni = glob($directory.'.'.$from);
+$canzoni = glob($directory.'.*'.$from);
 foreach($canzoni as $song){
     $song = str_replace($directory, '', $song);
     $output = str_replace('.'.$to, '', $song);
